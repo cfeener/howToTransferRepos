@@ -1,0 +1,10 @@
+1. Run 'commands1' in directory
+2. Create new repo on github
+3. Run 'git remote set-url origin []'
+4. Run 'commands2' in directory
+5. Move directory to 'done' folder
+
+
+This is the main thing that will be copied:
+
+git remote set-url origin 
